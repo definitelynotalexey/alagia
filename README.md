@@ -19,3 +19,5 @@ To do:
 - Heartbeat
 - Blacklist
 - File streaming
+
+Thanks to my brother 178317892745891 for giving me the chance to post this when I lost the source and for numerous life saving advice.
