@@ -1,4 +1,4 @@
-# Alagia
+# Alagia - A TCP client/server framework
 ! Keep in mind this was done in an hour or two as a fun project, I'm aware of bad practices here and will be fixing them when I have some time.
 
 ### Why
