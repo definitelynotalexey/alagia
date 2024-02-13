@@ -1,7 +1,0 @@
-﻿  App.cpp
-C:\Users\wtfman\source\repos\alagia\alagia-server\App.cpp(88,53): warning C4244: 'argument': conversion from 'uint64_t' to 'int', possible loss of data
-  Main.cpp
-  Generating Code...
-  alagia-server.vcxproj -> C:\Users\wtfman\source\repos\alagia\x64\Debug\alagia-server.exe
-  'pwsh.exe' is not recognized as an internal or external command,
-  operable program or batch file.
